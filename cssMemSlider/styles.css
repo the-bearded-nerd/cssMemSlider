@@ -111,25 +111,25 @@ body {
 .flex1 {
   width: 100%;
   border-radius: 10px;
-  background: url("../assets/img/1.jpg") no-repeat;
+  background: url("./assets/img/1.JPG") no-repeat;
   background-size: contain;
 }
 .flex2 {
   width: 100%;
   border-radius: 10px;
-  background: url("../assets/img/2.jpg") no-repeat;
+  background: url("./assets/img/2.jpg") no-repeat;
   background-size: contain;
 }
 .flex3 {
   width: 100%;
   border-radius: 10px;
-  background: url("../assets/img/3.jpg") no-repeat;
+  background: url("./assets/img/3.jpg") no-repeat;
   background-size: contain;
 }
 .flex4 {
   width: 100%;
   border-radius: 10px;
-  background: url("../assets/img/4.jpg") no-repeat;
+  background: url("./assets/img/4.jpg") no-repeat;
   background-size: contain;
 }
 
